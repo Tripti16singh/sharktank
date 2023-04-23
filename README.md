@@ -1,2 +1,0 @@
-# sharktank
-EDA using SQL 
